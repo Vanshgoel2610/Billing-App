@@ -59,7 +59,7 @@ const Login = () => {
                             </div>
                             <div className="mb-4">
                                 <label htmlFor="password" className="form-label text-muted">
-                                    Password
+                                    Password 
                                 </label>
                                 <input type="password" name="password" id="password" placeholder="******" className="form-control" onChange={onChangeHandler} value={data.password}/>
                             </div>

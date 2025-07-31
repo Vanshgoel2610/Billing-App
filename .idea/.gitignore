@@ -8,4 +8,4 @@
 /target
 *.log
 application.properties
-.env
+.env 
